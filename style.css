@@ -1,4 +1,7 @@
-* {box-sizing:border-box}
+* {box-sizing:border-box;
+  color: rgb(31, 10, 10);
+  background-color: rgb(236, 215, 219);}
+
 
 /* Slideshow container */
 .slideshow-container {
@@ -84,4 +87,10 @@ animation-duration: 1.5s;
 @keyframes fade {
 from {opacity: .4}
 to {opacity: 1}
+}
+header{
+    text-align: center;
+    font-size: x-large;
+    font-style: oblique;
+    co
 }
